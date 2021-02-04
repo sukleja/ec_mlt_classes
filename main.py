@@ -1,5 +1,6 @@
-
+#example for a simple class
 class car:
+    #constructor and member variables
     def __init__(self, color, brand):
         self.color=color
         self.brand=brand
